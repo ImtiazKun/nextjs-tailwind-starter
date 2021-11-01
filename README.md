@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## NextJS-Tailwind-starter
+
+This is just a template I use on most of my nextjs projects. It's purpose is to keep my configurations and not make similar configurations everytime I start a new nextjs project
 
 First, run the development server:
 
